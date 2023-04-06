@@ -1,4 +1,5 @@
-
+package com.encapsulation;
+import com.encapsulation.sports.*;
 import java.util.Scanner;
 
 public class Main {
@@ -14,9 +15,9 @@ public class Main {
 
     System.out.println();
     System.out.println("Sports Details:");
-    System.out.println("Sport id:"+sport.getSportId());
-    System.out.println("Sport Name:"+sport.getSportName());
-    System.out.println("total Player:"+sport.getTotalPlayer());
+    System.out.println("Sport id:" + sport.getSportId());
+    System.out.println("Sport Name:" + sport.getSportName());
+    System.out.println("total Player:" + sport.getTotalPlayer());
   }
 
 

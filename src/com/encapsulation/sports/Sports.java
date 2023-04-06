@@ -1,8 +1,8 @@
-class Sports{
-      private int sportId;
-      private String sportName;
-      private int totalPlayer;
-
+package com.encapsulation.sports;
+public class Sports {
+  private int sportId;
+  private String sportName;
+  private int totalPlayer;
 
   public int getSportId() {
     return sportId;
