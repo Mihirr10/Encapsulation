@@ -1,5 +1,5 @@
 package com.encapsulation;
-import com.encapsulation.sports.*;
+import com.encapsulation.sport.*;
 import java.util.Scanner;
 
 public class Main {

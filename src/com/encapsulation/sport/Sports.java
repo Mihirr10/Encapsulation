@@ -1,4 +1,4 @@
-package com.encapsulation.sports;
+package com.encapsulation.sport;
 public class Sports {
   private int sportId;
   private String sportName;
